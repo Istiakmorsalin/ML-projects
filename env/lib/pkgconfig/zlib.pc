@@ -1,0 +1,13 @@
+prefix=/Users/istiakmorsalin/iOffice/ML-projects/Scikit-learn/env
+exec_prefix=/Users/istiakmorsalin/iOffice/ML-projects/Scikit-learn/env
+libdir=/Users/istiakmorsalin/iOffice/ML-projects/Scikit-learn/env/lib
+sharedlibdir=/Users/istiakmorsalin/iOffice/ML-projects/Scikit-learn/env/lib
+includedir=/Users/istiakmorsalin/iOffice/ML-projects/Scikit-learn/env/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
