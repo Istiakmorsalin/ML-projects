@@ -1,0 +1,9 @@
+Name: libpgtypes
+Description: PostgreSQL libpgtypes library
+Url: http://www.postgresql.org/
+Version: 12.17
+Requires: 
+Requires.private: 
+Cflags: -I/Users/istiakmorsalin/iOffice/ML-projects/Scikit-learn/env/include
+Libs: -L/Users/istiakmorsalin/iOffice/ML-projects/Scikit-learn/env/lib -lpgtypes
+Libs.private: -L/Users/istiakmorsalin/iOffice/ML-projects/Scikit-learn/env/lib -lpgcommon -lpgport -lm

@@ -1,0 +1,9 @@
+Name: libecpg_compat
+Description: PostgreSQL libecpg_compat library
+Url: http://www.postgresql.org/
+Version: 12.17
+Requires: 
+Requires.private: libecpg libpgtypes
+Cflags: -I/Users/istiakmorsalin/iOffice/ML-projects/Scikit-learn/env/include
+Libs: -L/Users/istiakmorsalin/iOffice/ML-projects/Scikit-learn/env/lib -lecpg_compat
+Libs.private: -L/Users/istiakmorsalin/iOffice/ML-projects/Scikit-learn/env/lib -lpgcommon -lpgport -lpq -lm

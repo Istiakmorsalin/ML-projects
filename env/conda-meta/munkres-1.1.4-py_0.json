@@ -8,12 +8,12 @@
   ],
   "extracted_package_dir": "/Users/istiakmorsalin/miniconda3/pkgs/munkres-1.1.4-py_0",
   "files": [
-    "lib/python3.12/site-packages/munkres-1.1.4-py3.6.egg-info/PKG-INFO",
-    "lib/python3.12/site-packages/munkres-1.1.4-py3.6.egg-info/SOURCES.txt",
-    "lib/python3.12/site-packages/munkres-1.1.4-py3.6.egg-info/dependency_links.txt",
-    "lib/python3.12/site-packages/munkres-1.1.4-py3.6.egg-info/top_level.txt",
-    "lib/python3.12/site-packages/munkres.py",
-    "lib/python3.12/site-packages/__pycache__/munkres.cpython-312.pyc"
+    "lib/python3.11/site-packages/munkres-1.1.4-py3.6.egg-info/PKG-INFO",
+    "lib/python3.11/site-packages/munkres-1.1.4-py3.6.egg-info/SOURCES.txt",
+    "lib/python3.11/site-packages/munkres-1.1.4-py3.6.egg-info/dependency_links.txt",
+    "lib/python3.11/site-packages/munkres-1.1.4-py3.6.egg-info/top_level.txt",
+    "lib/python3.11/site-packages/munkres.py",
+    "lib/python3.11/site-packages/__pycache__/munkres.cpython-311.pyc"
   ],
   "fn": "munkres-1.1.4-py_0.conda",
   "license": "Apache-2.0",
@@ -64,7 +64,7 @@
         "size_in_bytes": 19406
       },
       {
-        "_path": "lib/python3.12/site-packages/__pycache__/munkres.cpython-312.pyc",
+        "_path": "lib/python3.11/site-packages/__pycache__/munkres.cpython-311.pyc",
         "path_type": "pyc_file"
       }
     ],
